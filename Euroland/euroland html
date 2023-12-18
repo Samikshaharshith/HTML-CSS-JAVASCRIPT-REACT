@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eurolandcom</title>
+    <link rel="stylesheet" href="./euro.css">
+</head>
+<body>
+<div class="div1">
+<div class="sub">
+<a href="#" id="idd">ABOUT US</a>
+<a href="#" id="idd">SERVICES</a>
+<a href="#" id="idd">TESTIMONIALS</a>
+<a href="#" id="idd">EUROLAND IR</a>
+<a href="#" id="idd">CAREER</a>
+<a href="#" id="idd">CONTACT</a>
+</div>
+</div>
+<div class="div2">
+<div class="sub1">
+<img src="./image/p1.jpeg"id="map">
+</div>
+<div class="sub2">
+ <h3 id="ab">About us</h3>
+ <p id="p1"><b>Eurolandcom India</b> is a subsidiary company of Euroland IR located in Sweden. Euroland IR has been assisting companies in improving their Investor Relations by providing Best Practice tools and outstanding 24/7 service for years. In focusing on improving the web-based IR communication of our customers, we are able to provide the most technologically advanced and user-friendly solutions in the industry. Our services are second to none. Intuitive design enables comprehensive understanding of your equity story. It is the blueprint to our tools. Making them accessible and interactive encourages users to get involved further with your financial history. This is how we engage investors.</p>
+</div>
+</div>
+<div class="div3">
+    <div><h1 id="head">OUR EXPERT TEAM<br> CREATE BEAUTIFUL IR TOOLS</h1></div>
+        <div class="row1">
+        <div class="sub3">
+  <div><a href="#"id="share"><h3>SHARE PRICE MONITER</h3>
+  <div class="sub4">
+    <p id="our">Our share graph allows to present your share 
+        performance in the most comprehensive and compelling 
+        way possible.We showcase your share in the best light.
+    </p></a>
+  </div>
+     </div> 
+</div>
+ <div class="sub5">
+  <div><a href="#" id="key"><h3>KEY FIGURES AND RATIOS </h3></div>
+<div class="sub6">
+  <p id="display">Display a comprehensive overview of your
+    company's historical data in an interactive environment and 
+    allow users to undertake their own analysis of trends.
+  </p></a>
+</div>
+ </div>
+   <div class="sub7">
+<div><a href="#"id="events"><h3>EVENTS CALENDER</h3></div>
+  <div class="sub8">
+    <p id="calender">A Comprehensive calendar that keeps your 
+      current and potential stakeholders in the loop.</a>
+    </p>
+  </div> 
+   </div>
+</div>
+<div class="row2">
+<div class="sub9">
+  <div><a href="#" id="mob"><h3>MOBILE IR APPLICATION</h3></div>
+ <div class="sub10" >
+  <p id="integrated">An integrated Investor Relation App that
+    beautifully complements your IR website while improving
+    your outreach to investors on the go.</a>
+  </p>
+ </div>
+</div>
+<div class="sub11">
+<div><a href="#" id="invesment"><h3>INVESMENT CALCULATOR</h3></div>
+<div class="sub12">
+  <p id="total">Our Total share Return Tool puts a key aspect of your
+    Equity story front and centre,making what you can offer potential
+    stakeholders for their invesment the focal point.
+  </p></a>
+</div>
+</div>
+<div class="sub13">
+  <div><a href="#" Id="market"><h3>MARKET PULSE</h3></div>
+    <div class="sub14">
+     <p id="euro">Euroland Market Pulse is a twitter application 
+      aimed at communicating share related information and performance 
+      to your investor community.
+     </p> </a>
+    </div>
+</div>
+</div>
+</div>
+<div class="div4">
+  <div class="head1">
+    <h1 id="head11">our prestigious clients Love Us</h1></div>
+    <div class="sub15">
+      <div class="sub16">
+        <h1 id="comma"><b>"</b></h1><p>Our Analysts like the interactive Analysts
+          Tool.We have received very good feedback from them.Several 
+          investors have also sent us their appreciation on our new website
+        Communication with them is now faster and more accurate.Euroland  does a great
+        job updating our key information and presenting it in a very
+        friendly and comprehensive way.
+        </p>
+      </div>
+    </div>
+</div>
+<div class="div5">
+<div><h1 id="clients">OUR CLIENTS</h1></div>
+<div class="div6">
+<div><img src="./image/bajaj.jpg" id="img1"></div>
+<div><img src="./image/dobur.jpeg" id="img2"></div>
+<div><img src="./image/nikon.png" id="img3"></div>
+<div><img src="./image/samsung.png" id="img4"></div> 
+<div><img src="./image/pana.jpg" id="img5"></div> 
+</div>
+</div>
+<div class="div7">
+  <div class="sub17">
+    <h1 id="do">DOING THE RIGHT THING </h1>
+  </div>
+  <div class="div8">
+    <div cLass="sub18">
+      <h3><b cLass="count">30+</b></h3>
+      <p class="coun">Year of Service</p>
+    </div>
+    <div class="sub19">
+      <h3><b class="count1">1100+</b></h3>
+      <p class="coun1">clients</p>
+    </div>
+    <div class="sub20">
+      <h3><b cLass="count2">>25</b></h3>
+      <p class="coun2">Tools</p>
+    </div>
+
+    <div class="sub21">
+      <h3><b cLass="count3">100%</b></h3>
+      <p class="coun3">Satiesfied computers</p>
+    </div>
+  </div>
+</div>
+<div class="div9">
+  <div class="div10">
+<h1 id="office"><b>OUR OFFICES GLOBALLY</b></h1></div>
+<div class="row6">
+  <div class="sub22">
+    <a href="#"id="tag"><h1 id="europe"><b>Europe</b></h1></a>
+    <p>Kronhusgatan 2D<br>
+    Gothenburg 41113<br>
+  Sweden<br>
+  +46 31105600</p></div>
+  <div class="sub23">
+    <a href="#"id="tag1"><h1 id="dubai"><b>Dubai</b></h1></a>
+    <p>Indigo Icon Tower<br>
+    Jumeirah Lake Towers<br>
+  634305 Dubai UAE<br>
+  +971 44362374></p></div>
+  <div class="sub24">
+    <a href="#"id="tag2"><h1 id="shan"><b>Shanghai</b></h1></a>
+    <p>Jiaxing Building<br>
+    Shanghai 200122<br>
+  china<br>
+  +86 2168813591</p></div>
+  <div class="sub25">
+    <a href="#"id="tag3"><h1 id="hong"><b>Hong kong </b></h1></a>
+    <p>7B One Capital Place<br>
+    18 Luard Road,Wanchai <br>
+  Hong Kong<br>
+ </p></div>
+</div>
+<div class="row7">
+  <div class="sub26">
+    <a href="#"id="tag4"><h1 id="tok">Tokyo</h1></a>
+    <p>Tamura Bldg.3rd Floor,1-1-7<br>
+    Kandaawajicho<br>
+  Chiyodaku<br>
+Tokyo 101-0063<br>Japan</p>
+  </div>
+  <div class="sub27">
+    <a href="#"id="tag5"><h1 id="phi">Philipines</h1></a>
+    <p>3rd floor,Wester Building<br>
+    #611 Shaw Boulevard,<br>Pasig City<br>Philipines</p></div>
+ <div class="sub28">
+      <a href="#"id="tag6"><h1 id="bang">Bangalore</h1></a>
+ <p>Golden square Bldg<br>
+    No.372,6th Cross<br>
+ Willson Garden<br>
+Bangalore-560027<br>India</p>
+  </div>
+  <div class="sub29">
+    <a href="#"id="tag7"><h1 id="lon">London</h1></a>
+    <p>LABS House<br>
+   15-19 bloomsbury Way<br>
+ WC1A 2TH Londen<br>
+United Kingdom<br></p>
+  </div></div>
+  <div class="row8">
+    <div class="sub30">
+      <a href="#"id="tag8"><h1 id="Chennai">Chennai</h1></a>
+      <p>No.8-11,VOC 1st Main Road,<br>
+    Dr.Subbaraya Nagar Kodambakkam<br>
+  Chennai-600024<br>
+  India<br></p></div>
+  <div class="sub31">
+    <a href="#"id="tag9"><h1 id="estonia">Estonia</h1></a>
+    <p>Turi 10C,11313 Tallin,<br>
+      Estonia
+</p></div>
+<div class="sub32">
+  <a href="#"id="tag10"><h1 id="Vietnam">Vietnam</h1></a>
+  <p>9th Floor,Viet Tower building,<br>
+    1 Thai Ha Street,Dong Da District,<br>
+    Honai,Vietnam
+</p></div>
+  </div></div>
+<div class="d10">
+<div class="sub33">
+  <div class="sub34"><h2 class="com">Eurolandcom India</h2></div>
+  <div><p id="pa1">Euroland is a subsidiary company ofEuroland IR
+    based in sweden.We provide our clients with complement Ir
+    solutions,tailored to their specific needs.From startups
+    to worldwide cooperations,wE improve our clients 
+    
+  </p></div> 
+</div>
+<div class="sub35">
+  <div><h2 class="off">india office-contact</h2></div>
+  <div><p id="pa2">Chennai-<a target="-blank" href=""
+  id="dir">Directions</a><br>
+No.8-11,VOC 1st Main Road<br>Dr.Subbaraya Nagar,
+kodambakkam<br>Chennai-600024.India<br><br>
+mailus@euroland.com<br>
++91(893) 981 8155 </p></div>
+</div>
+<div class="div11">
+<div><h2 class="we">we are Social</h2>
+<div class="div12">
+ <a target="-blank" href=""id="s" >Facebook</a>
+ <a target="-blank" href=""id="s" >Twitter</a>
+ <a target="-blank" href=""id="s" >Likedin</a>
+</div>  
+</div>
+</div>
+</div>
+<div class="div13"><p id="copy">Copyright&copy;2023 Eurolandcom
+  India</p></div>
+</body>
+</html>
